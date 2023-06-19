@@ -1,0 +1,2 @@
+# NEXUS_Customer_behavior_and_Deposit_detection
+Customer segmentation and Predicting subscription to term deposits
